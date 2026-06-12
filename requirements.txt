@@ -1,0 +1,24 @@
+# Core
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+
+# LLM & APIs
+groq>=0.4.0
+
+# LangChain stack
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-groq>=0.1.0
+
+# Embeddings & Vector Store
+sentence-transformers>=2.5.0
+chromadb>=0.4.22
+faiss-cpu>=1.7.4
+
+# Document processing
+pypdf>=4.0.0
+docx2txt>=0.8
+
+# Utilities
+numpy>=1.24.0
+tiktoken>=0.6.0
