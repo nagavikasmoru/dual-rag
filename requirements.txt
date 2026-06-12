@@ -22,3 +22,4 @@ docx2txt>=0.8
 # Utilities
 numpy>=1.24.0
 tiktoken>=0.6.0
+torchvision>=0.15.0
